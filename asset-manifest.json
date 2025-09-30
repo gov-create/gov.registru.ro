@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gov.registru.ro/static/css/main.60b961bf.css",
+    "main.js": "/gov.registru.ro/static/js/main.e8b2900f.js",
+    "static/media/DOL-MasterLogo_BLUE.svg": "/gov.registru.ro/static/media/DOL-MasterLogo_BLUE.888fad6cbd8cc852ddcaffd558c1b0df.svg",
+    "static/media/logo222.jpg": "/gov.registru.ro/static/media/logo222.6e288456f5e9d34be707.jpg",
+    "index.html": "/gov.registru.ro/index.html",
+    "main.60b961bf.css.map": "/gov.registru.ro/static/css/main.60b961bf.css.map",
+    "main.e8b2900f.js.map": "/gov.registru.ro/static/js/main.e8b2900f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b961bf.css",
+    "static/js/main.e8b2900f.js"
+  ]
+}
